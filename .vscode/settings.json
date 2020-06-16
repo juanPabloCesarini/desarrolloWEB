@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.port": 3306,
+    "color-highlight.matchWords": true,
+    "workbench.preferredHighContrastColorTheme": "Visual Studio Dark",
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "editor.fontLigatures": true,
+    "editor.minimap.maxColumn": 80,
+    "editor.fontSize": 16
+}
