@@ -1,0 +1,59 @@
+.fondo {
+    position: relative;
+    background: url("../img/cataratas.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+    
+}
+
+.transparencia {
+    position: absolute;
+    background: rgba(40, 40, 40, 0.55);
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 100vh;
+    /*display: block;*/
+
+}
+
+.fondo2 {
+    /* position: relative; */
+    background: url("../img/iguazu.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100px;
+    width: 80%;
+    border-radius: 25px;
+    margin-top:10px;
+    margin-left: 25px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+form{
+    padding:15px;
+} 
+input, textarea{
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+label{
+    color: indigo;
+}
+
+button{
+    margin:15px;
+}
+.colorBoton{
+    background-color: indigo;
+    color: white;
+}
+.colorBoton:hover{
+    border-color: indigo;
+    background-color: white;
+    color: indigo;
+}

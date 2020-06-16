@@ -1,0 +1,12 @@
+.navbar{
+    box-shadow: 2px 2px 5px grey;
+}
+
+.fondo {
+    background: linear-gradient(45deg,#ff0000 ,#049115 ,#040691 ,#FFFF00 );
+    display: block;
+}
+
+main span{
+    padding: 12px;
+}

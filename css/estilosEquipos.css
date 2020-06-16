@@ -1,0 +1,36 @@
+.bg-tareas-equipo{
+  background-color: #cd9557;
+  height: 100%;
+}
+
+.txt-nav{
+    font-family: 'Merriweather';
+    color: #002e66;
+}
+
+.nuevo{
+    background: #002e66;
+    color: white;
+}
+
+.editar{
+    background: #660061;
+    color: white;
+}
+
+.listar{
+    background: #663800;
+    color: white;
+}
+
+.borrar{
+    background: #006605;
+    color: white;
+}
+
+
+.iconos,.icon-file-picture,.icon-hash{
+    color: #002e66;
+    font-size: 40px;
+    margin-left: 20px;
+}
