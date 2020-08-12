@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\php",
+    "\\php\\tp1",
+    "\\php\\tp2",
+    "\\php\\tp2\\PHPClases",
+    "\\php\\tp2\\PHPClases\\perfil_usuario",
+    "\\php\\tp2\\PHPClases\\tareas_usuario",
+    "\\php\\tp2\\PHPClases\\tareas_usuario\\controladores",
+    "\\php\\tp2\\PHPClases\\tareas_usuario\\vistas"
+  ],
+  "SelectedNode": "\\php\\tp2\\PHPClases\\tareas_usuario\\controladores\\listados.php",
+  "PreviewInSolutionExplorer": false
+}
